@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on trying to simplify public cloud concepts & solutions for enterprises, specially working in a multi-cloud environments (AWS, GCP, Azure)
+- 🌱 I’m currently learning everything Public Cloud & DevOps
+- 👯 I’m looking to collaborate on Enterprise Solution Architectures for Public cloud deployments
+- 🤔 I’m looking for help with organizing git repositories with ideas to solve common problems enterprises face with public cloud implementations.
+- 💬 Ask me about Public Cloud - Azure, GCP, AWS, Kubernetes
+- 📫 How to reach me: 
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love travelling to places where I can just sit next to an ocean with coolers & food being served to me at my will 😄
